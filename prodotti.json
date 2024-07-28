@@ -1,0 +1,38 @@
+[
+    {
+        "nomeProdotto" : "Biro",
+        "descrizione" : "bic",
+        "prezzo" : 15.00,
+        "immagine" : "https://i0.wp.com/www.blogalileo.com/wp-content/uploads/2007/09/biro0.JPG"
+    },
+    {
+        "nomeProdotto" : "Matita",
+        "descrizione" : "pelican",
+        "prezzo" : 1.00,
+        "immagine" : "https://www.cartolibreriagrafite.it/shop/383-large_default/matite-noris-staedtler-in-grafite-gradazioni-2b-b-hb-h-e-2h.jpg"
+    },
+    {
+        "nomeProdotto" : "Gomma",
+        "descrizione" : "faber-castel",
+        "prezzo" : 2.50,
+        "immagine" : "https://www.pellegrinibrera.com/wp-content/uploads/2022/12/pelikan-br40.jpg"
+    },
+    {
+        "nomeProdotto" : "Astuccio",
+        "descrizione" : "eastpack",
+        "prezzo" : 26.50,
+        "immagine" : "https://media.nihaogroup.it/catalog/product/cache/636f7ea024468f3ece572a519f29d06f/e/a/eastpak-oval-astuccio-22cm-grigio-domenica.jpg"
+    },
+    {
+        "nomeProdotto" : "Diario",
+        "descrizione" : "smemoranda",
+        "prezzo" : 13.50,
+        "immagine" : "https://m.media-amazon.com/images/I/71vYGgXwQBL._AC_SX679_.jpg"
+    },
+    {
+        "nomeProdotto" : "Cartella DB",
+        "descrizione" : "cartella",
+        "prezzo" : 70.50,
+        "immagine" : "https://media.toys.prenatal-services.com/2024/05/d738a256-xz_1433116.avif"
+    }
+]
